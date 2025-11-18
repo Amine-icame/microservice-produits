@@ -60,7 +60,7 @@ Le préfixe pour toutes les routes est `/produits`.
 
 -   **Swagger UI :** `http://localhost:8082/swagger-ui.html`
    <img width="1821" height="1016" alt="image" src="https://github.com/user-attachments/assets/0e28c65f-7792-4620-bb79-3456152bec70" />
-   **Swagger UI (instance 2) :** `http://localhost:8083/swagger-ui.html`
+-  **Swagger UI (instance 2) :** `http://localhost:8083/swagger-ui.html`
    <img width="1827" height="1016" alt="image" src="https://github.com/user-attachments/assets/af0b7fc1-f758-4551-8449-0f919b408340" />
 -   **Actuator Endpoints :** `http://localhost:8082/actuator` (inclut `health`, `info`)
 
