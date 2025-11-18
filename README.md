@@ -65,6 +65,9 @@ Le préfixe pour toutes les routes est `/produits`.
 -   **Actuator Endpoints :** `http://localhost:8082/actuator` (inclut `health`, `info`)
       <img width="676" height="828" alt="image" src="https://github.com/user-attachments/assets/4523db9a-368a-4299-ad9e-e873d34657a4" />
 
+## Démonstration du Load Balancing (via les logs des consoles)
+<img width="1733" height="539" alt="image" src="https://github.com/user-attachments/assets/afe3014b-d30c-4dc2-80a7-b19735c37333" />
+<img width="1730" height="175" alt="image" src="https://github.com/user-attachments/assets/cde3f2c9-a9bb-466c-81b7-d7a97777ce79" />
 
 ---
 
