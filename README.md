@@ -33,6 +33,9 @@ Ce microservice est responsable de la gestion des opérations CRUD sur les produ
         mvn spring-boot:run -Dspring-boot.run.profiles=instance2
         ```
         (Assurez-vous d'avoir un `application-instance2.properties` local avec `server.port=8083`)
+## H2 Database
+<img width="1126" height="472" alt="image" src="https://github.com/user-attachments/assets/33c88ac7-4434-4175-84cb-a195d89f585a" />
+
 
 ## 💡 Configuration
 
@@ -56,6 +59,8 @@ Le préfixe pour toutes les routes est `/produits`.
 ## 📊 Monitoring et Documentation
 
 -   **Swagger UI :** `http://localhost:8082/swagger-ui.html`
+-   <img width="1827" height="1016" alt="image" src="https://github.com/user-attachments/assets/af0b7fc1-f758-4551-8449-0f919b408340" />
+
 -   **Actuator Endpoints :** `http://localhost:8082/actuator` (inclut `health`, `info`)
 
 ---
